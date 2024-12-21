@@ -9,7 +9,7 @@ import schedule
 import time
 from threading import Thread
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = "7636768416:AAGE-QJYZt_1tW6z6kM_XDfh0eA-RNM4FWs"
 CHANNEL_ID = "https://t.me/+YbRc9-onuvNiYTM8"  # شناسه کانال
 scheduled_posts = []
 
